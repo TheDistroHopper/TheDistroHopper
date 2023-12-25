@@ -1,12 +1,12 @@
 +++
-title = "Journey Of A Seeker"
+title = "Coming Soon"
 
 
 # The homepage contents
 [extra]
-lead = '<b>TheDistrohopper</b> series is a captivating journey of a seeker who explores the world of computer science and mathematics.'
+lead = '<b>TheDistrohopper</b> is a captivating journey of a seeker who explores the world of computer science and mathematics.'
 url = "/arcs/"
-url_button = "Explore"
+url_button = "Explore Arcs"
 repo_version = ""
 repo_license = ""
 repo_url = "https://github.com"
@@ -23,6 +23,12 @@ name = "News"
 section = "news"
 url = "/news/"
 weight = 20
+
+[[extra.menu.main]]
+name = "Creator"
+section = "creator"
+url = "/creator/"
+weight = 30
 
 [[extra.list]]
 title = "Episodes"

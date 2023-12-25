@@ -115,6 +115,12 @@ section = "news"
 url = "/news/"
 weight = 20
 
+[[extra.menu.main]]
+name = "Creator"
+section = "creator"
+url = "/creator/"
+weight = 30
+
 
 [[extra.menu.social]]
 name = "Twitter"
